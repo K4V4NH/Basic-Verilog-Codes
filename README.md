@@ -1,2 +1,2 @@
-# Basic-Verilog-Codes
-Compiled set of verilog codes written by me. Can help you with getting started with basics of verilog.
+# Basic Verilog Codes
+Compiled set of verilog codes for beginners. Can help you with getting started with the basics of verilog. 
